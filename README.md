@@ -1,4 +1,4 @@
-# ♻️ Zero2Hero - AI-Powered Waste Management Platform
+# AI-Powered Waste Management Platform
 
 Zero2Hero is an AI-integrated waste management platform designed to encourage responsible waste reporting and collection. Powered by **Next.js 14**, **Google Gemini AI**, and a modern web stack, it gamifies eco-friendly actions through rewards, real-time updates, and community-driven engagement.
 
